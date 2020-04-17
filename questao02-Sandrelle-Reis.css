@@ -1,0 +1,27 @@
+h1{
+	text-align: center;
+	font-family: Times New Roman;
+	font-weight: bold;
+}
+
+p{
+	text-align: center;
+	font-family: Arial;
+	font-size: 2;
+}
+
+table{
+	width: 400px;
+	margin: 0 auto;
+	text-align: center;
+	border-spacing: 10px;
+}
+
+td{
+	padding: 10px;
+	font-weight: bold;
+}
+
+img{
+	height: 150px;
+}
